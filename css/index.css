@@ -1,6 +1,25 @@
-th{
-    color: darkblue;
+/*HTML元素*/
+body{
+    background-color: azure;
+font-size: 0.75rem;
 }
-.hate {
-    color: darkred;
+a{
+    color: orange;
+}
+div>div>a{
+    color: #5e2d0a;
+}
+
+
+/*class*/
+.req-cls{
+    background-color: cornflowerblue;
+
+}
+.hate{
+    color: #5bd5ff;
+}
+/*ID*/
+#hate{
+    color: darkorange;
 }
